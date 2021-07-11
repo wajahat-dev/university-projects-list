@@ -1,6 +1,11 @@
 # university-projects-list
 A list of University Project that I created as per semesters wise
 
+#### 1st Semester
+University Management System
+
+#### 2nd Semester
+
 #### 3rd Semester
 Human Computer Interaction 
 I used Figma for creating.
