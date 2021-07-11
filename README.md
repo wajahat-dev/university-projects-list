@@ -2,14 +2,19 @@
 A list of University Project that I created as per semesters wise
 
 #### 1st Semester
-###### 1) University Management System
-Coded in Java: 
+###### 1) Programming Fundamental Project
+https://github.com/wajahat-dev/Programming_Fundamental__project
+
+
 
 ###### 2) Make an Animated Video (CyberBullying) on Powtoon 
 https://drive.google.com/file/d/17M3FfBY930IEVC9nltqRJTLN65BFzIsf/view?usp=sharing
 
 
 #### 2nd Semester
+
+###### 1) University Management System
+Coded in Java: 
 
 #### 3rd Semester
 Human Computer Interaction 
