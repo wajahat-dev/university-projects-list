@@ -1,5 +1,5 @@
 # university-projects-list
-A list of University Project that I created as per semesters wise
+An Array of University Project that I have created as per semesters wise
 
 #### 1st Semester
 ###### 1) Web-Based Converters written in javascript 
