@@ -2,7 +2,7 @@
 A list of University Project that I created as per semesters wise
 
 #### 1st Semester
-University Management System
+###### University Management System
 
 #### 2nd Semester
 
