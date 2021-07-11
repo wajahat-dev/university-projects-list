@@ -2,7 +2,7 @@
 A list of University Project that I created as per semesters wise
 
 #### 1st Semester
-###### 1) Programming Fundamental Project
+###### 1) Web-Based Converters written in javascript 
 https://github.com/wajahat-dev/Programming_Fundamental__project
 
 
