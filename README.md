@@ -1,8 +1,8 @@
 # university-projects-list 
 > An Array of University Project that I have created as per semesters wise
 
-#### 1st Semester
-> ###### 1) Web-Based Converters written in **[javascript]** 
+> #### 1st Semester
+###### 1) Web-Based Converters written in **[javascript]** 
 https://github.com/wajahat-dev/Programming_Fundamental__project
 
 
@@ -10,12 +10,12 @@ https://github.com/wajahat-dev/Programming_Fundamental__project
 https://drive.google.com/file/d/17M3FfBY930IEVC9nltqRJTLN65BFzIsf/view?usp=sharing
 
 
-#### 2nd Semester
+> #### 2nd Semester
 
 ###### 1) University Management System
 Coded in Java: 
 
-#### 3rd Semester
+> #### 3rd Semester
 Human Computer Interaction 
 I used Figma for creating.
 1)	Prototyping
