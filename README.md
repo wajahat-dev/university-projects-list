@@ -14,9 +14,9 @@ https://drive.google.com/file/d/17M3FfBY930IEVC9nltqRJTLN65BFzIsf/view?usp=shari
 
 > #### 2nd Semester
 
-###### 1) University Management System
+###### 1) Library Management System
 Coded in Java: 
-
+https://github.com/wajahat-dev/library_mangement_system_java
 
 > #### 3rd Semester
 Human Computer Interaction 
