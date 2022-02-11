@@ -28,5 +28,7 @@ https://www.figma.com/file/aBcdL1DmDz2hjTe7IGoyU8/HCI__Sketching_And_StoryBoardi
 
 > #### 4th Semester
 SoundCloud App CRUD Operation Quries
+<br />
 https://github.com/wajahat-dev/SoundCloud-CRUD-SQL-Quries/blob/master/SoundCloud_Queries__Wajahat_Ali__DMBS.sql
+<br />
 in a progress....
