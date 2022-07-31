@@ -32,4 +32,19 @@ DBMS: SoundCloud App CRUD Operation Quries
 <br />
 https://github.com/wajahat-dev/SoundCloud-CRUD-SQL-Quries/blob/master/SoundCloud_Queries__Wajahat_Ali__DMBS.sql
 <br />
+
+> #### 5th Semester
+
+Game Development: 2D Dupper Zupper Game
+<br />
+https://github.com/wajahat-dev/Dupper-Zupper-2D-Game
+<br />
+
+Technical and Business Writing: Created a E-commerce Web Store
+<br />
+https://github.com/wajahat-dev/E-commerce-Electronic-Store
+<br />
+
+
+
 in a progress....
