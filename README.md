@@ -45,6 +45,23 @@ Technical and Business Writing: Created a E-commerce Web Store
 https://github.com/wajahat-dev/E-commerce-Electronic-Store
 <br />
 
+> #### 6th Semester
+
+
+> #### 7th Semester
+
+> #### 8th Semester
+Natural Language Processing
+Crawling unique urdu words 23+ Million using python
+<br>
+https://github.com/wajahat-dev/NLP
+<br/>
+
+> #### FYP
+Local Bus System (M.E.R.N)
+<br>
+https://github.com/wajahat-dev/LBS
+<br/>
 
 
 in a progress....
