@@ -63,5 +63,3 @@ Local Bus System (M.E.R.N)
 https://github.com/wajahat-dev/LBS
 <br/>
 
-
-in a progress....
