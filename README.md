@@ -46,11 +46,7 @@ https://github.com/wajahat-dev/E-commerce-Electronic-Store
 <br />
 
 > #### 6th Semester
-Web Engineering:
-Create E-commerce Website
-<br />
-https://github.com/wajahat-dev/E-commerce-Electronic-Store
-<br />
+
 
 > #### 7th Semester
 
