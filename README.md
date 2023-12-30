@@ -28,7 +28,7 @@ https://www.figma.com/file/aBcdL1DmDz2hjTe7IGoyU8/HCI__Sketching_And_StoryBoardi
 
 > #### 4th Semester
 
-DBMS: SoundCloud App CRUD Operation Quries
+DBMS: SoundCloud App CRUD Operation Queries
 <br />
 https://github.com/wajahat-dev/SoundCloud-CRUD-SQL-Quries/blob/master/SoundCloud_Queries__Wajahat_Ali__DMBS.sql
 <br />
@@ -46,13 +46,15 @@ https://github.com/wajahat-dev/E-commerce-Electronic-Store
 <br />
 
 > #### 6th Semester
-
-
+Web Engineering: Created a  Kitchen Stuff Shopping Web
+<br />
+https://github.com/wajahat-dev/Kitchen-Stuff
+<br />
 > #### 7th Semester
 
 > #### 8th Semester
 Natural Language Processing
-Crawling unique urdu words 23+ Million using python
+Crawling unique Urdu words 23+ Million using python
 <br />
 https://github.com/wajahat-dev/NLP
 <br/>
