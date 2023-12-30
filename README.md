@@ -46,14 +46,18 @@ https://github.com/wajahat-dev/E-commerce-Electronic-Store
 <br />
 
 > #### 6th Semester
-
+Web Engineering:
+Create E-commerce Website
+<br />
+https://github.com/wajahat-dev/E-commerce-Electronic-Store
+<br />
 
 > #### 7th Semester
 
 > #### 8th Semester
 Natural Language Processing
 Crawling unique urdu words 23+ Million using python
-<br>
+<br />
 https://github.com/wajahat-dev/NLP
 <br/>
 
